@@ -1,0 +1,52 @@
+{
+  "companies": [
+    {
+      "id": "1795092415902",
+      "name": "Errico",
+      "email": "errico.azienda@gmail.com",
+      "password": "aquino"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1795092447713",
+      "companyId": "1795092415902",
+      "companyName": "Errico",
+      "title": "Developer",
+      "description": "Lavoro molto bello",
+      "location": "Avellino",
+      "createdAt": "2026-11-19T13:47:27.713545"
+    },
+    {
+      "id": "1795099740173",
+      "companyId": "1795092415902",
+      "companyName": "Errico",
+      "title": "pink",
+      "description": "sedd",
+      "location": "ssse",
+      "createdAt": "2026-11-19T15:49:00.174033"
+    }
+  ],
+  "applications": [
+    {
+      "id": "1795092482970",
+      "jobId": "1795092447713",
+      "firstName": "antonio",
+      "lastName": "martio",
+      "email": "anrighy@gmail.com",
+      "cvFileName": "Giuliano Nello Alfonso - Ricetta.pdf",
+      "cvUrl": "/uploads/1795092482970_Giuliano_Nello_Alfonso_-_Ricetta.pdf",
+      "appliedAt": "2026-11-19T13:48:03.038010"
+    },
+    {
+      "id": "1795099761404",
+      "jobId": "1795099740173",
+      "firstName": "toni",
+      "lastName": "sss",
+      "email": "ssss@jsidi.com",
+      "cvFileName": "BandoAllegati.pdf",
+      "cvUrl": "/uploads/1795099761404_BandoAllegati.pdf",
+      "appliedAt": "2026-11-19T15:49:21.439743"
+    }
+  ]
+}
